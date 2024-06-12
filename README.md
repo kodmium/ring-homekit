@@ -20,18 +20,18 @@ If you're looking to connect your smart home devices to Apple HomeKit for contro
 
 [Step guide for Enomek App Installation](https://kodmy.com/step-guide-to-install-enomek/)
 
-### ATHOM HomeKit Homebridge Hub
+### 2. ATHOM HomeKit Homebridge Hub
 This is the most cost-effective solution. It's pre-flashed and seamlessly integrates with Apple HomeKit. The setup process is simple, making it an easy plug-and-play option.
 
 [GET ATHOM BRIDGE NOW](http://kodmy-physical.dpdcart.com/cart/add?product_id=232666&amp;method_id=253685 "GET ATHOM BRIDGE NOW")
 
-###HOOBS
+### 3. HOOBS
 HOOBS, or Homebridge Out Of the Box, is a hardware-based solution that converts non-HomeKit devices into HomeKit compatible ones. It supports over 2000 accessories and offers both standard and pro versions.
 
-###Homebridge
+### 4. Homebridge
 Homebridge is a lightweight server and third-party software application that acts as a bridge between HomeKit and third-party devices. It offers a unified control system for your smart ecosystem.
 
-###Scrypted
+### 5. Scrypted
 Scrypted is an open-source solution that runs as a service, bridging different devices with major smart home ecosystems like Amazon Alexa, Apple HomeKit, and Google Home. While it's a great alternative to Homebridge, note that Ring Scrypted HomeKit integration may not support all Ring devices.
 
 Each option has its own advantages and considerations, so you can choose the one that best fits your needs and preferences.
